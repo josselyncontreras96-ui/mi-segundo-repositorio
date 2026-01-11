@@ -13,3 +13,10 @@ git checkout -b <branch-name>
 
 git switch -c <branch-name>
 ```
+
+Borrar una rama
+
+```
+git branch -d feature/archivo3
+
+```
